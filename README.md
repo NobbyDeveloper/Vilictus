@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Vilictus!</h1>
+<h1>Hello, 👋 I'm Vilictus/Syraxes!</h1>
 <h3>🔰 I have learned and improved my programming skills. I am a passionate developer, Front End Developer, and Luau Scripter. I have been in the programming world for 2 years. Actually Learning ChakraUI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
