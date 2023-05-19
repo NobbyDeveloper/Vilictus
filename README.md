@@ -1,5 +1,7 @@
-<h1>Hello, 👋 I'm Vilictus/Syraxes!</h1>
-<h3>🔰 I have learned and improved my programming skills. I am a passionate developer, Front End Developer, and Luau Scripter. I have been in the programming world for 2 years. Actually Learning ChakraUI</h3>
+<h1>Hello! 👋 I'm Vilictus/Syraxes!</h1>
+<p>Front-End Developer - UX/UI | CSS,JS, TailwindCSS, ChakraUI & NextUI Programmer.</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilictus&show_icons=true&locale=en&layout=compact" alt="vilictus" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
 
