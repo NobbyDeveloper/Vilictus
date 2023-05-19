@@ -1,7 +1,7 @@
 <h1>Hello! 🍃 I'm Vilictus/Syraxes! 🐘</h1>
 <p>Front-End Developer - UX/UI | CSS,JS, TailwindCSS, ChakraUI & NextUI Programmer.</p>
 
-<h4>**Frameworks**: NextJS & Astro </h4>
+**Frameworks**: NextJS & Astro
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilictus&show_icons=true&locale=en&layout=compact" alt="vilictus" /></p>
 
