@@ -2,7 +2,7 @@
 <p>Front-End Developer - UX/UI | CSS,JS, TailwindCSS, ChakraUI & NextUI Programmer.</p>
 
 **Frameworks:** NextJS & Astro
-**Learning:** MUI Library & Improving JS.
+**Learning:** MUI Library & Improving my JS.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilictus&show_icons=true&locale=en&layout=compact" alt="vilictus" /></p>
 
