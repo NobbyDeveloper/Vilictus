@@ -1,4 +1,4 @@
-<h1>🌵 Wooah! 👋🏻 Hello! 🍃 I'm { *Syraxes* } 🐘</h1>
+<h1>🌵 Wooah! 👋🏻 Hello! 🍃 I'm { **Syraxes** } 🐘</h1>
 <p>Front-End Developer - JS Junior - UX/UI | Classical Music Lover.</p>
 
 ## ⚡ Technologies: 
@@ -35,13 +35,9 @@
 ## 👀 Learning:
 MUI Library, ChakraUI & Improving my JS.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilictus&show_icons=true&locale=en&layout=compact" alt="vilictus" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2zeil0wsbb6cmg7qf49ukqace&unique={true|1|on|yes})
-
 - 📫 Contact me at: **hello.vilictus@gmail.com**
+
 
 ###
 
@@ -50,7 +46,7 @@ MUI Library, ChakraUI & Improving my JS.
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=2" alt="Spotify recently played"  />
 </div>
 
 
