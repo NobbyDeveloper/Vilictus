@@ -32,10 +32,13 @@
 
 ###
 
-**🌵 Learning:** MUI Library & Improving my JS.
+## 👀 Learning:
+MUI Library, ChakraUI & Improving my JS.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilictus&show_icons=true&locale=en&layout=compact" alt="vilictus" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2zeil0wsbb6cmg7qf49ukqace&unique={true|1|on|yes})
 
 - 📫 Contact me at: **hello.vilictus@gmail.com**
