@@ -53,7 +53,7 @@ MUI Library, ChakraUI & Improving my JS.
 
 
  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" aling="center alt="vilictus" />
+   <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" aling="left alt="vilictus" />
 </p>
 
 </div>
