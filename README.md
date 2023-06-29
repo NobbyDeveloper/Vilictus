@@ -48,7 +48,7 @@ MUI Library, ChakraUI & Improving my JS.
 <div aling="center">
 
 <p aling="center">
-   <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center">
+   <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" style="margin: auto;">
 </p>
 
 
