@@ -4,9 +4,11 @@
        <a href="https://github.com/vilictus" target="_blank">
      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-         <a href="https://github.com/vilictus" target="_blank">
-     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
+        <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
      <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
     
 </div>
