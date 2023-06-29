@@ -5,6 +5,11 @@
        <a href="https://github.com/vilictus" target="_blank">
      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
+
+<a href="https://github.com/vilictus" target="_blank">
+     <img src="https://img.shields.io/badge/Preview-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="" class="w-max max-w-xs ml-4">
+</a>
+      
 </div>
 
 
