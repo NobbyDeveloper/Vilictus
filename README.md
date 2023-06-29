@@ -1,12 +1,13 @@
 <h1>🌵 Wooah! 👋🏻 Hello! 🍃 I'm { **Syraxes** } 🐘</h1>
 <p>Front-End Developer - JS Junior - UX/UI | Classical Music Lover.</p>
-<div aling='left'>
+
+<div aling="center">
        <a href="https://github.com/vilictus" target="_blank">
      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-      
-    
 </div>
+
+
 ## ⚡ Technologies: 
 
 <div align="left">
@@ -43,6 +44,13 @@ MUI Library, ChakraUI & Improving my JS.
 
 
 - 📫 Contact me at: **hello.vilictus@gmail.com**
+
+<a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+     <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&redirect=true)
