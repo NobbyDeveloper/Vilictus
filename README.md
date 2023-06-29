@@ -45,16 +45,16 @@ MUI Library, ChakraUI & Improving my JS.
 
 - 📫 Contact me at: **hello.vilictus@gmail.com**
 
-<a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
+   <p aling="center">
+   <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
+                    align="center">
+</p>
 
-     <div align="center">
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" aling="center alt="vilictus" /> </p>
-</div>  
+   <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" aling="center alt="vilictus" />
+   </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&redirect=true)
+
+
