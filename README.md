@@ -1,5 +1,6 @@
 <h1>🌵 Wooah! 👋🏻 Hello! 🍃 I'm { **Syraxes** } 🐘</h1>
 <p>Front-End Developer - JS Junior - UX/UI | Classical Music Lover.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
 
 ## ⚡ Technologies: 
 
@@ -35,7 +36,7 @@
 ## 👀 Learning:
 MUI Library, ChakraUI & Improving my JS.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
+
 - 📫 Contact me at: **hello.vilictus@gmail.com**
 
 
