@@ -1,6 +1,8 @@
 <h1>Hello! 🍃 I'm { Vilictus } 🐘</h1>
 <p>Front-End Developer - Mr. JS Junior - UX/UI | Classical Music Lover.</p>
 
+## ⚡ Technologies: 
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -28,7 +30,7 @@
 
 ###
 
-** 🌵 Learning:** MUI Library & Improving my JS.
+**🌵 Learning:** MUI Library & Improving my JS.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilictus&show_icons=true&locale=en&layout=compact" alt="vilictus" /></p>
 
