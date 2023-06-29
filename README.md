@@ -42,3 +42,15 @@ MUI Library, ChakraUI & Improving my JS.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2zeil0wsbb6cmg7qf49ukqace&unique={true|1|on|yes})
 
 - 📫 Contact me at: **hello.vilictus@gmail.com**
+
+###
+
+<img src="https://raw.githubusercontent.com/Vilictus/Vilictus/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+
