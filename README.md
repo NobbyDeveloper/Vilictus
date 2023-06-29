@@ -40,14 +40,4 @@ MUI Library, ChakraUI & Improving my JS.
 - 📫 Contact me at: **hello.vilictus@gmail.com**
 
 
-###
-
-<img src="https://raw.githubusercontent.com/Vilictus/Vilictus/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=2" alt="Spotify recently played"  />
-</div>
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&redirect=true)
