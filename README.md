@@ -45,18 +45,11 @@ MUI Library, ChakraUI & Improving my JS.
 
 - 📫 Contact me at: **hello.vilictus@gmail.com**
 
-<div aling="center" style="display: flex;">
-
-<p aling="center">
-   <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" style="margin: auto;">
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Vilictus) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vilictus) 
 
 
- <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" aling="left alt="vilictus" />
-</p>
 
-</div>
 
   
 
