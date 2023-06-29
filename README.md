@@ -1,6 +1,6 @@
 <h1>🌵 Wooah! 👋🏻 Hello! 🍃 I'm { **Syraxes** } 🐘</h1>
 <p>Front-End Developer - JS Junior - UX/UI | Classical Music Lover.</p>
-<div style='display: "flex"' aling='left'>
+<div style='display: flex; aling-items: center;' aling='left'>
        <a href="https://github.com/vilictus" target="_blank">
      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
