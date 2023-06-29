@@ -52,5 +52,9 @@ MUI Library, ChakraUI & Improving my JS.
                 />
      <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" alt="vilictus" /> </p>
 
+     <div align="center">
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vilictus&label=Profile%20views&color=0e75b6&style=flat" aling="center alt="vilictus" /> </p>
+</div>  
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=2zeil0wsbb6cmg7qf49ukqace&redirect=true)
