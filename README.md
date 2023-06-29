@@ -1,5 +1,5 @@
 <h1>Hello! 🍃 I'm { Vilictus } 🐘</h1>
-<p>Front-End Developer - UX/UI | Classical Music Lover.</p>
+<p>Front-End Developer - Mr. JS Junior - UX/UI | Classical Music Lover.</p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
