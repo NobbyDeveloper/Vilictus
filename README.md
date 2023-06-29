@@ -1,5 +1,5 @@
-<h1>Hello! 🍃 I'm { Vilictus } 🐘</h1>
-<p>Front-End Developer - Mr. JS Junior - UX/UI | Classical Music Lover.</p>
+<h1>🌵 Wooah! 👋🏻 Hello! 🍃 I'm { *Syraxes* } 🐘</h1>
+<p>Front-End Developer - JS Junior - UX/UI | Classical Music Lover.</p>
 
 ## ⚡ Technologies: 
 
